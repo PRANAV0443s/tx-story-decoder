@@ -9,6 +9,17 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "ethers": "^6.13.4"
-  }
+    "ethers": "^6.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRANAV0443s/tx-story-decoder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRANAV0443s/tx-story-decoder/issues"
+  },
+  "homepage": "https://github.com/PRANAV0443s/tx-story-decoder#readme"
 }
