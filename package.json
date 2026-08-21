@@ -1,0 +1,14 @@
+{
+  "name": "tx-story-decoder",
+  "version": "0.1.0",
+  "description": "Live mini block-explorer: decodes failed Ethereum mainnet transactions into human-readable stories via direct Alchemy RPC/WebSocket calls (no third-party indexer).",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4"
+  }
+}
